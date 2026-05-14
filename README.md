@@ -1,17 +1,16 @@
-### Olá, eu sou o Fred! 👋
+### Hi, I'm Fred! 👋
 
-👨‍💻 **Data Engineer & Data Scientist** focado em automação, arquitetura de dados e modelagem preditiva.
+👨‍💻 **Data Engineer & Data Scientist** focused on automation, data architecture, and predictive modeling.
 
-🎓 Estudante de Tecnologia impulsionado por resolver problemas complexos com código e inteligência.
+🎓 Technology student driven to solve complex problems with code and intelligence.
 
-🔬 **Entusiasta de Machine Learning**. Tenho forte interesse em Análise Exploratória de Dados (EDA) e na criação de modelos de previsão clássicos, como *Random Forest*, *Regressão Logística* e *Decision Trees*.
+🔬 **Machine Learning Enthusiast**. I have a strong interest in Exploratory Data Analysis (EDA) and building classic predictive models, such as *Random Forest*, *Logistic Regression*, and *Decision Trees*.
 
-
-📬 **Contato:** [fredsousa675@gmail.com](mailto:fredsousa675@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fred-henrique-hjgvef)
+📬 **Contact:** [fredsousa675@gmail.com](mailto:fredsousa675@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fred-henrique22)
 
 <br>
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
